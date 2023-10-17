@@ -7,14 +7,13 @@ body{
     padding: 0;
     background-image: url(https://spka.or.id/assets/uploads/2022/09/sejarah-di-balik-lukisan-penangkapan-pangeran-diponegoro-karya-raden-saleh-dvWnnN1PS3.jpg);
     background-position: center;
-    /* background-repeat: no-repeat; */
     background-size: cover;
 }
 
 .page1{
     margin-top: 0;
     padding: 50px 50px;
-    background-color: cadetblue;
+    background-color: rgb(92, 156, 158);
 }
 
 .judul h1{
